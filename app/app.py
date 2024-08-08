@@ -1,6 +1,6 @@
 import pyodbc
 import streamlit as st
-import pandas
+import pandas as pd
 
 connectionString = f'Driver={{ODBC Driver 18 for SQL Server}};Server=tcp:azureserverjohn.database.windows.net,1433;Database=azure_db_John;Uid=azureuser;Pwd=Realmadrid8989;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30;'
 conn = pyodbc.connect(connectionString)
