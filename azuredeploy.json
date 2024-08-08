@@ -33,7 +33,7 @@
             "P3",
             "P4"
         ],
-        "defaultValue": "B3",
+        "defaultValue": "P3",
         "metadata": {
           "description": "The SKU of App Service Plan."
         }
@@ -47,14 +47,14 @@
       },
       "repoUrl": {
         "type": "string",
-        "defaultValue": "https://github.com/JohnTan38/streamlit-azz-app.git",
+        "defaultValue": "https://github.com/JohnTan38/sql.git",
         "metadata": {
           "description": "Git Repo URL"
         }
       },
       "repoBranch": {
         "type": "string",
-        "defaultValue": "main",
+        "defaultValue": "master",
         "metadata": {
           "description": "Git Repo branch to deploy"
         }
