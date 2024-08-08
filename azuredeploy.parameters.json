@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.1",
     "parameters": {
         "webAppName": {
-            "value": "sql"
+            "value": "azz-sql"
         },
         "sku": {
             "value": "B3"
@@ -15,7 +15,7 @@
             "value": "https://github.com/JohnTan38/sql.git"
         },
         "repoBranch": {
-            "value": "main"
+            "value": "master"
         }
     }
 }
