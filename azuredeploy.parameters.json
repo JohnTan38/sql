@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.1",
     "parameters": {
         "webAppName": {
-            "value": "streamlit-azz-app"
+            "value": "sql"
         },
         "sku": {
-            "value": "B3"
+            "value": "P3"
         },
         "linuxFxVersion": {
             "value": "PYTHON|3.10"
         },
         "repoUrl": {
-            "value": "https://github.com/JohnTan38/streamlit-azz-app.git"
+            "value": "https://github.com/JohnTan38/sql.git"
         },
         "repoBranch": {
-            "value": "main"
+            "value": "master"
         }
     }
 }
