@@ -54,7 +54,7 @@
       },
       "repoBranch": {
         "type": "string",
-        "defaultValue": "master",
+        "defaultValue": "main",
         "metadata": {
           "description": "Git Repo branch to deploy"
         }
